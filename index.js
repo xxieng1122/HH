@@ -16,7 +16,7 @@ var product = [{
     id: 3,
     img: 'https://i.pinimg.com/originals/88/7c/f4/887cf48915662f4a7d30ac3c0654037e.jpg',
     name: 'ໃບກ້ານແດງ',
-    price: 30000,
+    price: 20000,
     description: 'Adidas shoe Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
     type: 'shoe'
 }];
