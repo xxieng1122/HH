@@ -1,7 +1,7 @@
 var product = [{
     id: 1,
     img: 'https://th.bing.com/th/id/OIP.CDFJfUD8WZBsKqhg4DA67gHaHP?rs=1&pid=ImgDetMain',
-    name: 'ໃບກ້ານແດງ',
+    name: 'ໃບກ້ານຂາວ',
     price: 30000,
     description: 'Nike Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
     type: 'shoe'
@@ -15,7 +15,7 @@ var product = [{
 }, {
     id: 3,
     img: 'https://i.pinimg.com/originals/88/7c/f4/887cf48915662f4a7d30ac3c0654037e.jpg',
-    name: 'ໃບກ້ານຂາວ',
+    name: 'ໃບກ້ານແດງ',
     price: 30000,
     description: 'Adidas shoe Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
     type: 'shoe'
